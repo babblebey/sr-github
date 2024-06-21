@@ -1,6 +1,6 @@
 {
   "name": "sr",
-  "version": "1.0.0",
+  "version": "1.4.4",
   "description": "",
   "private": true,
   "main": "index.js",
@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/babblebey/sr/issues"
   },
-  "homepage": "https://github.com/babblebey/sr#readme",
-  "devDependencies": {
-    "semantic-release": "^24.0.0"
-  }
+  "homepage": "https://github.com/babblebey/sr#readme"
 }
