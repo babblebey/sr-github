@@ -1,3 +1,3 @@
 # Testing Semantic Releasing
 
-`beta` branch
+`beta` branch testing
